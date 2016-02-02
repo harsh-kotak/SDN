@@ -54,7 +54,6 @@ def submit():
 
   print '== %s' % string.strip()
 
-
 # =========================== LOGIN HELPERS - NO NEED TO CONFIGURE THIS =======================================
 
 def loginPrompt():
