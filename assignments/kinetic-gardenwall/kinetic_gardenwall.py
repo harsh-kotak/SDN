@@ -2,7 +2,6 @@
 Coursera:
 - Software Defined Networking (SDN) course
 -- Module 8 Programming Assignment
-
 Professor: Nick Feamster
 Teaching Assistant: Arpit Gupta
 '''
