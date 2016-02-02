@@ -49,7 +49,6 @@ class CustomTopo(Topo):
                     j = j+1
                     self.addLink(edge, host, **linkopts3)
 
-
 def simpleTest():
     "Create and test a simple network"
     linkopts1 = {'bw':100, 'delay':'5ms'}
